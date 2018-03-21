@@ -19,15 +19,15 @@
     
     The program will automatically list all the items available for purchase.
 
-![How to Run](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonhowtorun.png)
+![How to Run](https://github.com/georgegreener/bamazon/blob/master/bamazonhowtorun.png)
 
-![Storefront](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonstorefront.png)
+![Storefront](https://github.com/georgegreener/bamazon/blob/master/bamazonstorefront.png)
 
     Bamazon will ask you for the ID of the item you'd like to purchase.
     You can also choose how much of that item you'd like to get.
     Just be sure not to order more than what's in stock!
 
-![How to Order](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonhowtoorder.png)
+![How to Order](https://github.com/georgegreener/bamazon/blob/master/bamazonhowtoorder.png)
 
 ### Bamazing!!!
 
