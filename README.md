@@ -1,19 +1,37 @@
 # Bamazon!
 
-    Bamazon is a global, online supermarket where people with access to this code can imagine themselves buying a handful of mock items.
+    Bamazon is a global, online supermarket where people with access
+    to this code can imagine themselves buying a handful of mock items.
 
-###It's as easy as 1-2-3...
+### Simple setup
 
-    Simply run the code via Node to bring up a list of available items.
+    You'll need to install a few Node packages to get Bamazon up and running.
+    Don't worry, it's easy! Just type these commands into Bash.
+    
+    npm install mysql
+    npm install inquirer
+    
+    That's it!
 
-![](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\runningbamazon.gif)
+### It's as easy as 1-2-3...
 
-    Bamazon will then ask you for the ID of the item you'd like to purchase, as well as how many of that item you'd like. Just be sure not to order more than what's in stock!
+    Then type "node bamazonCustomer" into Bash to run it.
+    
+    The program will automatically list all the items available for purchase.
 
-###BAM!!!
+![](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonhowtorun.png)
 
-    Bamazing! It's that easy!
+​![](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonstorefront.png)
 
-![](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonpurchasedemo.gif)
+    Bamazon will ask you for the ID of the item you'd like to purchase.
+    You can also choose how much of that item you'd like to get.
+    Just be sure not to order more than what's in stock!
 
-    Please remember to Bamazon responsibly. If you or a loved one has an online-shopping addiction, please call this toll-free number: 1-800-PLZ-HELP
+![](C:\Users\georg\OneDrive\Documents\Bootcamp\Homework\bamazon\bamazonhowtoorder.png)
+
+###Bamazing!!!
+
+    It's that easy!
+    
+    Please remember to Bamazon responsibly. If you or a loved one has an
+    online-shopping addiction, please call this toll-free number: 1-800-PLZ-HELP
